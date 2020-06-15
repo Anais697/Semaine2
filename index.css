@@ -1,0 +1,13 @@
+li{
+    display: inline;
+}
+
+#intro{
+    color:#b83c3a; 
+    /* id s'applique à un seul truc, unique. pas à plusieurs élements.
+    Il peut y avoir plusieurs id cependant*/
+}
+.class{
+    font-family: Verdana; 
+    color: #f7ac5f ;
+}

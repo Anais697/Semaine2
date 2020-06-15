@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+h1{
+    background-color: #008080;
+    font-weight: bold;
+    color: white;
+}
+h2{
+    font-weight: bold;
+    text-decoration: underline #F5DEB3;
+    text-indent: 10px;
+}
+h3{
+    font-weight: lighter;
+    font-size: smaller;
+}
+section{
+    margin: 45px
+}
+h4{
+    color: #DF9774;
+    font-weight: lighter;
+}
+article{
+    background-color:#F7F4F4;
+}
+
+span{
+    font-weight: bold;
+    color: #008080;
+}

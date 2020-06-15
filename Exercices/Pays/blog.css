@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: firebrick;
+    padding: 10px;
+    font-weight: bolder;
+    color: white;
+    font-size: 2em;
+}
+h1{
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-left: 25px;
+    text-decoration: underline firebrick;
+}
+section{
+    padding: 15px 40px;
+}
+h2{
+    font-weight: bold;
+    font-size: 1em;
+}
+article{
+    padding: 10px 20px; 
+    border: double grey;
+    margin-bottom: 16px;
+}
+h4{
+    color: firebrick;
+    font-weight: bold;
+}
+img{
+    width: 30%;
+}
+a{
+    text-decoration: none;
+    color: firebrick;
+    font-weight: bold;
+}

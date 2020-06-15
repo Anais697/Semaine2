@@ -1,0 +1,29 @@
+
+h1{
+    text-decoration: underline;
+    color: red;
+}
+.retrait {
+    text-indent:50px;
+}
+.brd{
+    border-style: solid;
+    border-color: blue;
+}
+.small-block{
+    font-style: italic;
+    text-indent:50px;
+    width: 500px;
+}
+.isole{
+    padding: 100px;
+}
+.encart{
+    background-color: green;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    padding: 100px;
+}
+
+
