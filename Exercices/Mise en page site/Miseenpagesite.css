@@ -29,31 +29,29 @@ h2{
 h3{
     color: #D7286C;
 }
-p{
+.engagement{
     border: #BEF085 groove;
     margin-left: 800px;
     margin-right: 300px;
     font-weight: bold;
     text-align: center;
 }
-.produits{
-    width:50px; 
+.prod{
+    width: 100px;
     height: auto;
-    display: inline-block;
+    
 }
-img{
-    width: 50px;
-    display: inline-block;
-}
+
+
 h4{
     color: #D7286C;
 
 }
-.categorie{
-    display: inline-block;
-    width: 30%;
-
+.cat{
+width: 100px;
+height: auto;
 }
+
 .copyright{
     text-align: center;
 }
